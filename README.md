@@ -9,7 +9,7 @@ A climate analytics and forecasting tool built as part of the **Omdena CBP Tanza
 - Build and compare multiple regression models (e.g., Random Forest, Ridge, SVR) to predict monthly values of climate variables.
 - Enable real-time single-point prediction for any selected month and region.
 - Detect anomalies and visualize predicted values in historical context.
-- Apply learnings from the **Omdena ML/AI for Social Good** course on model lifecycle, collaboration, and storytelling.
+- Apply learnings from the **Omdena ML/AI for Social Good** course on model lifecycle, collaboration, and storytelling
 
 ---
 
